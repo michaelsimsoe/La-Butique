@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red Bag",
+      "brand": "Kors",
+      "price": "210",
+      "description": "La la lorem lalala",
+      "category": "handbag",
+      "size": "12cm",
+      "color": "red",
+      "stock": 4,
+      "rating": 4.5,
+      "img": "/redbag.png"
+    },
+    {
+      "id": 2,
+      "name": "Brown Bag",
+      "brand": "Kors",
+      "price": "370",
+      "description": "La la lorem lalala",
+      "category": "handbag",
+      "size": "12cm",
+      "color": "brown",
+      "stock": 9,
+      "rating": 4.1,
+      "img": "/brownmkors.png"
+    },
+    {
+      "id": 3,
+      "name": "Valentino Blabla",
+      "brand": "Woman",
+      "price": "180",
+      "description": "La la lorem lalala",
+      "category": "weekend bag",
+      "size": "32cm",
+      "color": "indigo",
+      "stock": 5,
+      "rating": 3.7,
+      "img": "/valentinoweekend.png"
+    },
+    {
+      "id": 4,
+      "name": "In and Out",
+      "brand": "Woman",
+      "price": "280",
+      "description": "La la lorem lalala",
+      "category": "weekend bag",
+      "size": "48cm",
+      "color": "brown",
+      "stock": 14,
+      "rating": 4.0,
+      "img": "/brownweek.png"
+    }
+  ],
+  "categories": [
+    { "name": "handbag", "description": "La la lorem lalala" },
+    { "name": "weekend bag", "description": "La la lorem lalala" }
+  ]
+}
